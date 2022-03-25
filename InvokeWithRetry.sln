@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokeWithRetry", "InvokeWithRetry\InvokeWithRetry.csproj", "{4D1BC2E4-C174-4B1D-BD4C-9D2875B6BE95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokeWithRetryTests", "InvokeWithRetryTests\InvokeWithRetryTests.csproj", "{A1615CDC-FFA1-4185-BBA4-FDD9BC1F91F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D1BC2E4-C174-4B1D-BD4C-9D2875B6BE95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1BC2E4-C174-4B1D-BD4C-9D2875B6BE95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1BC2E4-C174-4B1D-BD4C-9D2875B6BE95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1BC2E4-C174-4B1D-BD4C-9D2875B6BE95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1615CDC-FFA1-4185-BBA4-FDD9BC1F91F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1615CDC-FFA1-4185-BBA4-FDD9BC1F91F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1615CDC-FFA1-4185-BBA4-FDD9BC1F91F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1615CDC-FFA1-4185-BBA4-FDD9BC1F91F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
